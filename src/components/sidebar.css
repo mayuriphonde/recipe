@@ -1,0 +1,10 @@
+.wrapper {
+  position: absolute;
+  left: auto;
+  width: 250px;
+  height: 100%;
+}
+
+a {
+  color: #06047a;
+}
